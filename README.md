@@ -1,4 +1,4 @@
-## Hello Word!!!
+## Hello!!!
 # Sou o Sóstenes Antunes, estou em busca da arte de programar!
 <div align="center">
   <a href="https://github.com/sostenesantunes">
